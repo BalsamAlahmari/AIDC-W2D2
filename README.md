@@ -25,7 +25,8 @@ Before implementing the routes, my predictions were:
 
   Step 4:
 
-  
+  <img width="441" height="65" alt="{EC6D5548-C777-4817-BA09-4785759DB510}" src="https://github.com/user-attachments/assets/285fafb9-7189-498a-a381-d672bcc4803f" />
+
 
   Step 5:
 
