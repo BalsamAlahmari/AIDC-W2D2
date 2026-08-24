@@ -11,4 +11,5 @@ Before implementing the routes, my predictions were:
 
 
 * Will an unmodified `openai` Python client work against the server with only a `base_url` change?
-  **`Yes`** ,  the server follows the OpenAI-compatible API contract, so the standard OpenAI Python client can communicate with it by changing the `base_url` to the local service. The request and response structures remain compatible with what the client expects.
+
+   **Yes** ,  the server follows the OpenAI-compatible API contract, so the standard OpenAI Python client can communicate with it by changing the `base_url` to the local service. The request and response structures remain compatible with what the client expects.
