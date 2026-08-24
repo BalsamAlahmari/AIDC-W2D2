@@ -29,6 +29,9 @@ Before implementing the routes, my predictions were:
 
 
   Step 5:
+  
+
+  Verify step:
 
   <img width="883" height="213" alt="WhatsApp Image 2026-08-24 at 4 44 01 PM" src="https://github.com/user-attachments/assets/e6e43a2c-6e24-40b8-ab85-4f8e96af8cb5" />
 
