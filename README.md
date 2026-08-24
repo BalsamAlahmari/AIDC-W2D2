@@ -11,6 +11,10 @@ Before implementing the routes, my predictions were:
 
    **Yes** ,  the server follows the OpenAI-compatible API contract, so the standard OpenAI Python client can communicate with it by changing the `base_url` to the local service. The request and response structures remain compatible with what the client expects.
 
-  Step:
+  Step 1:
+  
   <img width="648" height="150" alt="image" src="https://github.com/user-attachments/assets/e8f77601-6697-4fd4-be00-72520cf03982" />
 
+  Step 2:
+
+  <img width="770" height="129" alt="image" src="https://github.com/user-attachments/assets/d7560bc8-8716-4d34-bc53-d50bb3a0f5cf" />
